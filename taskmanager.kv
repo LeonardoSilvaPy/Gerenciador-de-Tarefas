@@ -1,0 +1,31 @@
+<TaskManager>:
+    orientation: 'vertical'
+    padding: 10
+    spacing: 10
+
+    canvas.before:
+        Color:
+            rgba: 1, 1, 1, 1  # Cor branca para o fundo
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+    TextInput:
+        id: task_input
+        hint_text: "Digite sua tarefa aqui"
+        size_hint_y: None
+        height: 50
+
+    Button:
+        text: "Adicionar Tarefa"
+        size_hint_y: None
+        height: 50
+        background_color: 0, 1, 0, 1  # Cor verde para o botão
+        on_press: root.add_task()
+
+    ScrollView:
+        BoxLayout:
+            id: task_list
+            orientation: 'vertical'
+            size_hint_y: None
+            height: self.minimum_height
