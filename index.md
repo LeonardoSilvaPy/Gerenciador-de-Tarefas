@@ -6,10 +6,10 @@ Bem-vindo ao **Gerenciador de Tarefas**, uma solução eficiente para organizar 
 O Gerenciador de Tarefas foi desenvolvido com o framework **Kivy** em Python, oferecendo uma interface amigável e intuitiva. Este aplicativo permite que os usuários acompanhem, adicionem e marquem tarefas como concluídas, organizando-as de maneira clara e acessível.
 
 ### Captura de Tela do Projeto:
-![Print 1](imagens/print1.png)
-![Print 2](imagens/print2.png)
-![Print 3](imagens/print3.png)
-![Print 4](imagens/print4.png)
+![Print 2](imagens/print1.png)
+![Print 1](imagens/print2.png)
+![Print 4](imagens/print3.png)
+![Print 3](imagens/print4.png)
 
 ## Compatibilidade com Dispositivos
 O **Gerenciador de Tarefas** foi projetado para ser **compatível tanto com celulares quanto com computadores**, oferecendo uma experiência de uso fluida em diferentes plataformas. Com a interface responsiva, você pode usar o aplicativo em:
