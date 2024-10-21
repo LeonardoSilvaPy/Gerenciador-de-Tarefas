@@ -1,9 +1,7 @@
-# Gerenciador de Tarefas
-
-Bem-vindo ao **Gerenciador de Tarefas**, uma solução eficiente para organizar suas atividades diárias de forma simples e prática.
+<!-- Removendo o título principal para um estilo mais limpo -->
 
 ## Visão Geral
-O Gerenciador de Tarefas foi desenvolvido com o framework **Kivy** em Python, oferecendo uma interface amigável e intuitiva. Este aplicativo permite que os usuários acompanhem, adicionem e marquem tarefas como concluídas, organizando-as de maneira clara e acessível.
+O **Gerenciador de Tarefas** é um aplicativo simples e intuitivo para ajudar você a organizar suas atividades diárias. Desenvolvido com **Kivy** em Python, ele oferece uma interface limpa, sendo compatível tanto para **celulares** quanto para **computadores**.
 
 ### Captura de Tela do Projeto:
 ![Print 1](imagens/print2.png)
@@ -11,26 +9,36 @@ O Gerenciador de Tarefas foi desenvolvido com o framework **Kivy** em Python, of
 ![Print 3](imagens/print4.png)
 ![Print 4](imagens/print3.png)
 
-## Compatibilidade com Dispositivos
-O **Gerenciador de Tarefas** foi projetado para ser **compatível tanto com celulares quanto com computadores**, oferecendo uma experiência de uso fluida em diferentes plataformas. Com a interface responsiva, você pode usar o aplicativo em:
-
-- **Celulares**: A interface é adaptada para telas menores, garantindo uma experiência de uso eficiente em dispositivos móveis.
-- **Computadores**: No desktop, o aplicativo oferece uma tela maior para uma visualização mais ampla e um gerenciamento mais fácil das tarefas.
-
-Seja em um **smartphone** ou em um **computador**, o aplicativo mantém sua funcionalidade intuitiva e acessível.
+---
 
 ## Tecnologias Utilizadas
-- **Python**: Linguagem de programação principal.
-- **Kivy**: Framework utilizado para a construção da interface gráfica.
-- **GitHub Pages**: Para hospedar a documentação do projeto.
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- **Python**: A linguagem de programação principal.
+- **Kivy**: Framework usado para desenvolver a interface gráfica.
+- **PyCharm**: IDE utilizada para o desenvolvimento do código.
+- **GitHub Pages**: Utilizado para hospedar a documentação do projeto.
+
+---
+
+## Compatibilidade com Dispositivos
+O **Gerenciador de Tarefas** foi projetado para ser **compatível com celulares e computadores**, proporcionando uma experiência de uso fluida em ambos os dispositivos. Ele adapta a interface automaticamente para as diferentes resoluções de tela:
+
+- **Celulares**: Interface ajustada para telas menores e toque.
+- **Computadores**: Layout otimizado para telas maiores, com maior controle de navegação.
+
+---
 
 ## Benefícios e Vantagens
-- **Produtividade Melhorada**: Com um sistema organizado de gerenciamento, os usuários podem visualizar rapidamente suas pendências e manter o foco no que importa.
-- **Fácil Integração**: O código é modular, facilitando a adição de novas funcionalidades.
-- **Código Aberto**: O projeto é open-source e está disponível para que desenvolvedores possam contribuir e personalizar conforme suas necessidades.
+- **Produtividade Melhorada**: Organize suas tarefas de forma eficiente e aumente sua produtividade.
+- **Fácil Integração**: O código é modular e fácil de estender.
+- **Código Aberto**: O projeto é open-source, permitindo contribuições e personalizações.
+
+---
 
 ## Como Contribuir
-Este projeto está aberto para colaboração! Se você tem interesse em contribuir, siga os passos abaixo:
+Este projeto está aberto para colaboração! Para contribuir:
+
 1. Faça um **fork** do repositório.
 2. Crie um branch para suas modificações (`git checkout -b feature/nova-funcionalidade`).
 3. Envie suas alterações (`git push origin feature/nova-funcionalidade`).
@@ -41,6 +49,8 @@ Este projeto está aberto para colaboração! Se você tem interesse em contribu
 ---
 
 ## Contato
-Se você tiver alguma dúvida ou sugestão sobre o Gerenciador de Tarefas, fique à vontade para entrar em contato:
+Se você tiver dúvidas ou sugestões, entre em contato:
+
 - **Email**: [leonardosilva9737@gmail.com](mailto:leonardosilva9737@gmail.com)
 - **GitHub**: [LeonardoSilvaPy](https://github.com/LeonardoSilvaPy)
+
